@@ -1,0 +1,13 @@
+{
+	"manifest_version": 1,
+	"id": "com.a-michelis.joplin-plugin-jopviz",
+	"app_min_version": "2.8",
+	"version": "1.0.0",
+	"name": "JopViz - Graphviz intergration for Joplin",
+	"description": "JopViz allows codeblocs in `dot` syntax to be parsed by Graphviz dot and replaced by the generated svg graphs",
+	"author": "Andreas Michelis",
+	"homepage_url": "https://github.com/a-michelis",
+	"repository_url": "https://github.com/a-michelis/joplin-jopviz",
+	"keywords": [],
+	"categories": []
+}
